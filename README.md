@@ -1,2 +1,2 @@
 # test
-testing a repo
+testing a repo for learning github
